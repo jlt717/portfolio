@@ -53,8 +53,18 @@
   margin: 2rem;
   padding: 0.75rem 3.5rem;
 }
-
+.links {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
 .link {
+  margin: 0 10px;
   display: flex;
   flex-wrap: wrap;
+}
+.links img {
+  object-fit: cover;
+  width: auto;
+  height: 40px;
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
-import LinkedInIcon from "../../Assets/LinkedIn.png";
-import GitHubIcon from "../../Assets/GitHub-icon.png";
+import LinkedInIcon from "../../Assets/LinkedIn2.png";
+import GitHubIcon from "../../Assets/GitHubIcon.png";
 import emailjs from "@emailjs/browser";
 import { useRef } from "react";
 
@@ -58,8 +58,15 @@ const Contact = () => {
             Submit
           </button>
           <div className="links">
-            <img src={LinkedInIcon} alt="LinkedIn" className="link" />
-            <img src={GitHubIcon} alt="GitHub" className="link" />
+            <a
+              href="https://www.linkedin.com/in/jamie-tracy-2b1b685a/"
+              className="link"
+            >
+              <img src={LinkedInIcon} alt="LinkedIn" />{" "}
+            </a>
+            <a href="https://github.com/jlt717" className="link">
+              <img src={GitHubIcon} alt="GitHub" />{" "}
+            </a>
           </div>
         </form>
       </div>
