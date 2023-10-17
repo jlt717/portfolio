@@ -14,8 +14,8 @@
 }
 .logo {
   object-fit: cover;
-  height: 3rem;
-  width: 4rem;
+  height: 10rem;
+  width: 12rem;
 }
 
 .menuListItem {
@@ -23,9 +23,9 @@
   cursor: pointer;
 }
 .menuListItem:hover {
-  color: yellow;
+  color: #b1fb79;
   padding-bottom: 0.5rem;
-  border-bottom: 3px solid yellow;
+  border-bottom: 3px solid #b1fb79;
 }
 
 .menuButton {
@@ -46,9 +46,9 @@
 }
 
 .active {
-  color: yellow;
+  color: #b1fb79;
   padding-bottom: 0.5rem;
-  border-bottom: 3px solid yellow;
+  border-bottom: 3px solid #b1fb79;
 }
 .navMenu {
   position: absolute;

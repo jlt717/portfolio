@@ -37,7 +37,12 @@
   border-radius: 0.5rem;
   background: rgb(50, 50, 50);
 }
-
+.skillBarImgHtml {
+  object-fit: cover;
+  height: 4rem;
+  width: 5rem;
+  margin-right: 2rem;
+}
 .skillBarImg {
   object-fit: cover;
   height: 4rem;

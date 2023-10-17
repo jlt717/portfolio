@@ -23,6 +23,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 0 auto;
 }
 
 .hello {
@@ -31,7 +32,7 @@
 }
 
 .homeName {
-  color: yellow;
+  color: #b1fb79;
 }
 .homeParagraph {
   font-size: medium;

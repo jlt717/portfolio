@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 import { Link } from "react-scroll";
 //import background from
-import Briefcase from "../../Assets/briefcase-1.png"
+import Briefcase from "../../Assets/briefcase-1.png";
 const Home = () => {
   return (
     <section id="home">
@@ -12,9 +12,14 @@ const Home = () => {
           I'm
           <span className="homeName"> Jamie</span>
           <br />
-          Web Developer
+          Full-stack Developer
         </span>
-        <p className="homeParagraph">I am a skilled web developer...</p>
+        <p className="homeParagraph">
+          I am a web developer based in Houston, TX. I'm passionate about
+          turning challenges <br /> into opportunities and am committed to
+          streamlining and simplifying. With a knack for <br /> multitasking and
+          a love for innovation, I bring a fresh perspective to every endeavor.
+        </p>
         <Link>
           <button className="btn">
             <img src={Briefcase} alt="hire me" className="btnImg" />
