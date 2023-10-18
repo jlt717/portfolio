@@ -109,7 +109,7 @@ const Works = () => {
               </ul>
             </>
           }
-          githubLink="https://github.com/jlt717/JT-Pokedex"
+          githubLink="https://github.com/jlt717/movie_api"
           caseStudyLink="https://example.com/pokedex-case-study"
         />
         <Project
