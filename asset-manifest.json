@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.59f95d13.css",
-    "main.js": "/portfolio/static/js/main.6b05468d.js",
+    "main.css": "/portfolio/static/css/main.7d2e9759.css",
+    "main.js": "/portfolio/static/js/main.4339c431.js",
     "static/media/CineDEX Case Study.pdf": "/portfolio/static/media/CineDEX Case Study.b33a28cb7cf52e1c99fc.pdf",
     "static/media/Cinedex.png": "/portfolio/static/media/Cinedex.7e5f30dab7a793ec105d.png",
     "static/media/Cinedex-Angular.png": "/portfolio/static/media/Cinedex-Angular.b7fc7860cfe5c3d06f0d.png",
@@ -13,11 +13,11 @@
     "static/media/html_1.png": "/portfolio/static/media/html_1.9412dbf7d3d2360927e3.png",
     "static/media/database-1.png": "/portfolio/static/media/database-1.1e81b7d502f0ec3032db.png",
     "index.html": "/portfolio/index.html",
-    "main.59f95d13.css.map": "/portfolio/static/css/main.59f95d13.css.map",
-    "main.6b05468d.js.map": "/portfolio/static/js/main.6b05468d.js.map"
+    "main.7d2e9759.css.map": "/portfolio/static/css/main.7d2e9759.css.map",
+    "main.4339c431.js.map": "/portfolio/static/js/main.4339c431.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f95d13.css",
-    "static/js/main.6b05468d.js"
+    "static/css/main.7d2e9759.css",
+    "static/js/main.4339c431.js"
   ]
 }
