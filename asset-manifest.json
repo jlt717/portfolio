@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7d2e9759.css",
-    "main.js": "/portfolio/static/js/main.4559b160.js",
+    "main.js": "/portfolio/static/js/main.0f13607e.js",
     "static/media/CineDEX Case Study.pdf": "/portfolio/static/media/CineDEX Case Study.8e4e17e1870d22e40f1e.pdf",
+    "static/media/Meet App Case Study.pdf": "/portfolio/static/media/Meet App Case Study.9ff1a435fa08790c8502.pdf",
     "static/media/Cinedex.png": "/portfolio/static/media/Cinedex.7e5f30dab7a793ec105d.png",
     "static/media/Cinedex-Angular.png": "/portfolio/static/media/Cinedex-Angular.b7fc7860cfe5c3d06f0d.png",
     "static/media/Chatterbox.png": "/portfolio/static/media/Chatterbox.83585c2a2163d9324e97.png",
@@ -14,10 +15,10 @@
     "static/media/database-1.png": "/portfolio/static/media/database-1.1e81b7d502f0ec3032db.png",
     "index.html": "/portfolio/index.html",
     "main.7d2e9759.css.map": "/portfolio/static/css/main.7d2e9759.css.map",
-    "main.4559b160.js.map": "/portfolio/static/js/main.4559b160.js.map"
+    "main.0f13607e.js.map": "/portfolio/static/js/main.0f13607e.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2e9759.css",
-    "static/js/main.4559b160.js"
+    "static/js/main.0f13607e.js"
   ]
 }
