@@ -7,6 +7,7 @@ import Chatterbox from "../../Assets/Chatterbox.png";
 import CinedexAngular from "../../Assets/Cinedex-Angular.png";
 import APIicon from "../../Assets/RestAPI1.png";
 import CinedexCaseStudy from "../../Assets/CineDEX Case Study.pdf";
+import MeetCaseStudy from "../../Assets/Meet App Case Study.pdf";
 
 const Project = ({
   image,
@@ -164,7 +165,7 @@ const Works = () => {
           }
           liveSiteLink="https://jlt717.github.io/meet/"
           githubLink="https://github.com/jlt717/meet"
-          caseStudyLink="https://example.com/meet-app-case-study"
+          caseStudyLink={MeetCaseStudy}
         />
         <Project
           image={Chatterbox}
