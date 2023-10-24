@@ -8,6 +8,8 @@ import CinedexAngular from "../../Assets/Cinedex-Angular.png";
 import APIicon from "../../Assets/RestAPI1.png";
 import CinedexCaseStudy from "../../Assets/CineDEX Case Study.pdf";
 import MeetCaseStudy from "../../Assets/Meet App Case Study.pdf";
+import CinedexAngularCaseStudy from "../../Assets/Cinedex-Angular Case Study.pdf";
+import ChatterboxCaseStudy from "../../Assets/Chatterbox App Case Study.pdf";
 
 const Project = ({
   image,
@@ -187,7 +189,7 @@ const Works = () => {
             </>
           }
           githubLink="https://github.com/jlt717/Chat-App/tree/master"
-          caseStudyLink="https://example.com/chat-app-case-study"
+          caseStudyLink={ChatterboxCaseStudy}
         />
         <Project
           image={CinedexAngular}
@@ -211,7 +213,7 @@ const Works = () => {
           }
           liveSiteLink="https://jlt717.github.io/Cinedex-Angular-client/welcome"
           githubLink="https://github.com/jlt717/Cinedex-Angular-client/tree/master"
-          caseStudyLink="https://example.com/cinedex-angular-case-study"
+          caseStudyLink={CinedexAngularCaseStudy}
         />
       </div>
     </section>
