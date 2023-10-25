@@ -12,6 +12,7 @@ import CinedexAngularCaseStudy from "../../Assets/Cinedex-Angular Case Study.pdf
 import ChatterboxCaseStudy from "../../Assets/Chatterbox App Case Study.pdf";
 import MoviesAPICaseStudy from "../../Assets/Movies API Case Study.pdf";
 import PokedexCaseStudy from "../../Assets/Pokedex Case Study.pdf";
+import ChatterboxDemo from "../../Assets/ChatterboxDemo.webm";
 
 const Project = ({
   image,
@@ -21,6 +22,7 @@ const Project = ({
   liveSiteLink,
   githubLink,
   caseStudyLink,
+  demoLink,
 }) => {
   return (
     <div className="worksItem">
@@ -31,14 +33,26 @@ const Project = ({
           <p>{description}</p>
         </div>
         <div className="projectLinks">
-          <a
-            href={liveSiteLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="worksLink"
-          >
-            Live Site
-          </a>
+          {liveSiteLink && (
+            <a
+              href={liveSiteLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="worksLink"
+            >
+              Live Site
+            </a>
+          )}
+          {demoLink && (
+            <a
+              href={demoLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="worksLink"
+            >
+              Demo
+            </a>
+          )}
           <a
             href={githubLink}
             target="_blank"
@@ -194,6 +208,7 @@ const Works = () => {
           }
           githubLink="https://github.com/jlt717/Chat-App/tree/master"
           caseStudyLink={ChatterboxCaseStudy}
+          demoLink={ChatterboxDemo}
         />
         <Project
           image={CinedexAngular}
