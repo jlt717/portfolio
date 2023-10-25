@@ -2,6 +2,8 @@ import React from "react";
 import "./Contact.css";
 import LinkedInIcon from "../../Assets/LinkedIn2.png";
 import GitHubIcon from "../../Assets/GitHubIcon.png";
+import MediumIcon from "../../Assets/mediumLogo.png";
+import XIcon from "../../Assets/X-logo.png";
 import emailjs from "@emailjs/browser";
 import { useRef } from "react";
 
@@ -66,6 +68,12 @@ const Contact = () => {
             </a>
             <a href="https://github.com/jlt717" className="link">
               <img src={GitHubIcon} alt="GitHub" />{" "}
+            </a>
+            <a href="https://medium.com/@jlt717" className="link">
+              <img src={MediumIcon} alt="Medium" />{" "}
+            </a>
+            <a href="https://twitter.com/JamieTracy99067" className="link">
+              <img src={XIcon} alt="Twitter" />{" "}
             </a>
           </div>
         </form>
