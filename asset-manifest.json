@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7d2e9759.css",
-    "main.js": "/portfolio/static/js/main.a542f780.js",
+    "main.css": "/portfolio/static/css/main.92666e63.css",
+    "main.js": "/portfolio/static/js/main.20126fce.js",
+    "static/media/Movies API Case Study.pdf": "/portfolio/static/media/Movies API Case Study.78d92a110287d57900e0.pdf",
     "static/media/Chatterbox App Case Study.pdf": "/portfolio/static/media/Chatterbox App Case Study.d097dd1d45fe3e0b530f.pdf",
     "static/media/Cinedex-Angular Case Study.pdf": "/portfolio/static/media/Cinedex-Angular Case Study.e049533747f585e71892.pdf",
-    "static/media/CineDEX Case Study.pdf": "/portfolio/static/media/CineDEX Case Study.bd66b2bed53644a14c26.pdf",
+    "static/media/CineDEX Case Study.pdf": "/portfolio/static/media/CineDEX Case Study.b72e526475cfe77900c4.pdf",
     "static/media/Meet App Case Study.pdf": "/portfolio/static/media/Meet App Case Study.295bcf92e785f74234a8.pdf",
     "static/media/Cinedex.png": "/portfolio/static/media/Cinedex.7e5f30dab7a793ec105d.png",
     "static/media/Cinedex-Angular.png": "/portfolio/static/media/Cinedex-Angular.b7fc7860cfe5c3d06f0d.png",
+    "static/media/Pokedex Case Study.pdf": "/portfolio/static/media/Pokedex Case Study.7e8b25b58e631d4b3240.pdf",
     "static/media/Chatterbox.png": "/portfolio/static/media/Chatterbox.83585c2a2163d9324e97.png",
     "static/media/Meet.png": "/portfolio/static/media/Meet.215acae9039bf74f9f69.png",
     "static/media/Pokedex.png": "/portfolio/static/media/Pokedex.f0dd97e321e748971436.png",
@@ -16,11 +18,11 @@
     "static/media/html_1.png": "/portfolio/static/media/html_1.9412dbf7d3d2360927e3.png",
     "static/media/database-1.png": "/portfolio/static/media/database-1.1e81b7d502f0ec3032db.png",
     "index.html": "/portfolio/index.html",
-    "main.7d2e9759.css.map": "/portfolio/static/css/main.7d2e9759.css.map",
-    "main.a542f780.js.map": "/portfolio/static/js/main.a542f780.js.map"
+    "main.92666e63.css.map": "/portfolio/static/css/main.92666e63.css.map",
+    "main.20126fce.js.map": "/portfolio/static/js/main.20126fce.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d2e9759.css",
-    "static/js/main.a542f780.js"
+    "static/css/main.92666e63.css",
+    "static/js/main.20126fce.js"
   ]
 }
