@@ -10,6 +10,8 @@ import CinedexCaseStudy from "../../Assets/CineDEX Case Study.pdf";
 import MeetCaseStudy from "../../Assets/Meet App Case Study.pdf";
 import CinedexAngularCaseStudy from "../../Assets/Cinedex-Angular Case Study.pdf";
 import ChatterboxCaseStudy from "../../Assets/Chatterbox App Case Study.pdf";
+import MoviesAPICaseStudy from "../../Assets/Movies API Case Study.pdf";
+import PokedexCaseStudy from "../../Assets/Pokedex Case Study.pdf";
 
 const Project = ({
   image,
@@ -84,12 +86,14 @@ const Works = () => {
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
+                <li>jQuery</li>
+                <li>Bootstrap</li>
               </ul>
             </>
           }
           liveSiteLink="https://jlt717.github.io/JT-Pokedex/"
           githubLink="https://github.com/jlt717/JT-Pokedex"
-          caseStudyLink="https://example.com/pokedex-case-study"
+          caseStudyLink={PokedexCaseStudy}
         />
         <Project
           image={APIicon}
@@ -113,7 +117,7 @@ const Works = () => {
             </>
           }
           githubLink="https://github.com/jlt717/movie_api"
-          caseStudyLink="https://example.com/pokedex-case-study"
+          caseStudyLink={MoviesAPICaseStudy}
         />
         <Project
           image={Cinedex}
@@ -194,7 +198,7 @@ const Works = () => {
         <Project
           image={CinedexAngular}
           alt="Cinedex Angular"
-          title="Cinedex Angular Project"
+          title="CineDEX Angular Project"
           description={
             <>
               This single-paged responsive app uses routing and multiple
