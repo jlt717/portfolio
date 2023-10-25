@@ -12,7 +12,7 @@ import CinedexAngularCaseStudy from "../../Assets/Cinedex-Angular Case Study.pdf
 import ChatterboxCaseStudy from "../../Assets/Chatterbox App Case Study.pdf";
 import MoviesAPICaseStudy from "../../Assets/Movies API Case Study.pdf";
 import PokedexCaseStudy from "../../Assets/Pokedex Case Study.pdf";
-import ChatterboxDemo from "../../Assets/ChatterboxDemo.webm";
+//import ChatterboxDemo from "../../Assets/ChatterboxDemo.webm";
 
 const Project = ({
   image,
@@ -45,7 +45,7 @@ const Project = ({
           )}
           {demoLink && (
             <a
-              href={demoLink}
+              href="https://vimeo.com/877963868?share=copy"
               target="_blank"
               rel="noopener noreferrer"
               className="worksLink"
@@ -208,7 +208,7 @@ const Works = () => {
           }
           githubLink="https://github.com/jlt717/Chat-App/tree/master"
           caseStudyLink={ChatterboxCaseStudy}
-          demoLink={ChatterboxDemo}
+          demoLink="https://vimeo.com/877963868?share=copy"
         />
         <Project
           image={CinedexAngular}
