@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.92666e63.css",
-    "main.js": "/portfolio/static/js/main.20126fce.js",
+    "main.css": "/portfolio/static/css/main.cc37b633.css",
+    "main.js": "/portfolio/static/js/main.748163c0.js",
     "static/media/Movies API Case Study.pdf": "/portfolio/static/media/Movies API Case Study.78d92a110287d57900e0.pdf",
     "static/media/Chatterbox App Case Study.pdf": "/portfolio/static/media/Chatterbox App Case Study.d097dd1d45fe3e0b530f.pdf",
     "static/media/Cinedex-Angular Case Study.pdf": "/portfolio/static/media/Cinedex-Angular Case Study.e049533747f585e71892.pdf",
@@ -14,15 +14,17 @@
     "static/media/Meet.png": "/portfolio/static/media/Meet.215acae9039bf74f9f69.png",
     "static/media/Pokedex.png": "/portfolio/static/media/Pokedex.f0dd97e321e748971436.png",
     "static/media/RestAPI1.png": "/portfolio/static/media/RestAPI1.171a0863d710b77f9e48.png",
+    "static/media/X-logo.png": "/portfolio/static/media/X-logo.4d73a49285dbe9cac801.png",
     "static/media/react.png": "/portfolio/static/media/react.a45a8e9df01b50ec76aa.png",
+    "static/media/mediumLogo.png": "/portfolio/static/media/mediumLogo.8e5b3197c2ce15a677d1.png",
     "static/media/html_1.png": "/portfolio/static/media/html_1.9412dbf7d3d2360927e3.png",
     "static/media/database-1.png": "/portfolio/static/media/database-1.1e81b7d502f0ec3032db.png",
     "index.html": "/portfolio/index.html",
-    "main.92666e63.css.map": "/portfolio/static/css/main.92666e63.css.map",
-    "main.20126fce.js.map": "/portfolio/static/js/main.20126fce.js.map"
+    "main.cc37b633.css.map": "/portfolio/static/css/main.cc37b633.css.map",
+    "main.748163c0.js.map": "/portfolio/static/js/main.748163c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.92666e63.css",
-    "static/js/main.20126fce.js"
+    "static/css/main.cc37b633.css",
+    "static/js/main.748163c0.js"
   ]
 }
