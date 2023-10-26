@@ -3,6 +3,7 @@ import "./Home.css";
 import { Link } from "react-scroll";
 //import background from
 import Briefcase from "../../Assets/briefcase-1.png";
+import ResumePDF from "../../Assets/Tracy_Jamie_Resume.pdf";
 const Home = () => {
   return (
     <section id="home">
@@ -20,12 +21,14 @@ const Home = () => {
           streamlining and simplifying. With a knack for <br /> multitasking and
           a love for innovation, I bring a fresh perspective to every endeavor.
         </p>
-        <Link>
+        <a href={ResumePDF} target="_blank" rel="noopener noreferrer">
+          {/* <Link> */}
           <button className="btn">
             <img src={Briefcase} alt="hire me" className="btnImg" />
             Hire Me
           </button>
-        </Link>
+          {/* </Link> */}
+        </a>
       </div>
       <img src={""} alt="" className="background" />
     </section>
