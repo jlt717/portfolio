@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cc37b633.css",
-    "main.js": "/portfolio/static/js/main.457db93b.js",
+    "main.js": "/portfolio/static/js/main.d7c537dd.js",
     "static/media/Movies API Case Study.pdf": "/portfolio/static/media/Movies API Case Study.78d92a110287d57900e0.pdf",
     "static/media/Chatterbox App Case Study.pdf": "/portfolio/static/media/Chatterbox App Case Study.d097dd1d45fe3e0b530f.pdf",
     "static/media/Cinedex-Angular Case Study.pdf": "/portfolio/static/media/Cinedex-Angular Case Study.e049533747f585e71892.pdf",
@@ -22,10 +22,10 @@
     "static/media/database-1.png": "/portfolio/static/media/database-1.1e81b7d502f0ec3032db.png",
     "index.html": "/portfolio/index.html",
     "main.cc37b633.css.map": "/portfolio/static/css/main.cc37b633.css.map",
-    "main.457db93b.js.map": "/portfolio/static/js/main.457db93b.js.map"
+    "main.d7c537dd.js.map": "/portfolio/static/js/main.d7c537dd.js.map"
   },
   "entrypoints": [
     "static/css/main.cc37b633.css",
-    "static/js/main.457db93b.js"
+    "static/js/main.d7c537dd.js"
   ]
 }
