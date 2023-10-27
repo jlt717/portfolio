@@ -9,9 +9,7 @@ const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
   return (
     <nav className="navbar">
-      <a href="https://jlt717.github.io/portfolio/" className="logo-link">
-        <img src={logo} alt="logo" className="logo" />
-      </a>
+      <img src={logo} alt="logo" className="logo" />
       <div className="menu">
         <Link
           activeClass="active"
