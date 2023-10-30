@@ -23,7 +23,7 @@ const Skills = () => {
         </div>
         <div className="skillBar">
           <img src={JSImg} alt="" className="skillBarImg" />
-          <h2>Javascript</h2>
+          <h2>JavaScript</h2>
           <p></p>
         </div>
         <div className="skillBar">
